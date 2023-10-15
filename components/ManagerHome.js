@@ -7,7 +7,7 @@ export default function ManagerHome() {
   return (
     <View style={styles.container}>
       <Header />
-      <Text style={styles.headerText}>All Categories</Text>
+      <Text style={styles.headerText}>All Categories UPDATE</Text>
       <Text style={styles.headerPara}>Choose the operation you want to do</Text>
       <View style={styles.marginContainer}>
         <View style={styles.rectangle}>
